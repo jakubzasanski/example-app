@@ -19,9 +19,9 @@ Aplikacja nie zawiera frontu tylko api.
 
 ### Adresy URL
 
-Strona: http://localhost:8080
-Redis port: http://localhost:6379/
-Redis stack: http://localhost:8001/redis-stack/browser
+- Strona: http://localhost:8080
+- Redis port: http://localhost:6379/
+- Redis stack: http://localhost:8001/redis-stack/browser
 
 ### Endpoint domeny
 
