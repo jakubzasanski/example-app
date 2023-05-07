@@ -2,7 +2,7 @@
 
 ### Instrukcja uruchomienia
 
-2. Pobierz repo
+1. Pobierz repo
 2. Wypakuj pliki
 3. Otwórz konsole w głównym katalogu projektu
 4. Użyj poniższego polecenia aby zbudować obrazy i kontener
