@@ -9,4 +9,4 @@ RUN apt-get update \
     && docker-php-ext-enable xdebug redis \
     && a2enmod rewrite
 
-COPY ../../../example-app-2/src /var/www/html/
+COPY ../../src /var/www/html/
