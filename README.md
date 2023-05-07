@@ -88,11 +88,3 @@ http://localhost:8080/api/report/
   "domain": "example.com"
 }
 ```
-
-#### GET
-
-Umożliwia pobranie licznika pojedynczej domeny.
-
-```
-http://localhost:8080/api/report/?domain=example.com
-```
