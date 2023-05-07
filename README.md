@@ -5,7 +5,7 @@
 2. Pobierz repo
 2. Wypakuj pliki
 3. Otwórz konsole w głównym katalogu projektu
-4. Użyj poniższego polecnia aby zbudować obrazy i kontener
+4. Użyj poniższego polecenia aby zbudować obrazy i kontener
 
 ```
 docker-compose -p example-app up -d
