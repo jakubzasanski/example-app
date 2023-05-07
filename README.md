@@ -17,12 +17,13 @@ Po wykonaniu komendy aplikacja powinna zacząć działać i być dostępna pod u
 
 Aplikacja nie zawiera frontu tylko api.
 
+Najlepiej testować w postman lub insomnia.
+
 ### Adresy URL
 
 - Strona: http://localhost:8080
 - Redis port: http://localhost:6379/
 - Redis stack: http://localhost:8001/redis-stack/browser
-
 ### Endpoint domeny
 
 Url: http://localhost:8080/api/domain/
